@@ -1,0 +1,2 @@
+Errors:
+* Missing "SCL-VCC" connection for IC1 and IC5 
